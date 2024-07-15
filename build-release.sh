@@ -1,6 +1,6 @@
 git clone https://github.com/llvm/llvm-project.git
 cd llvm-project
-git checkout llvmorg-13.0.1
+git checkout llvmorg-15.0.0
 cd ..
 mkdir llvm-build
 cd llvm-build/
